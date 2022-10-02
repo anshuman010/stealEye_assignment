@@ -1,0 +1,4 @@
+Question 1-In the list component, the memo is used to prevent the "WrappedListComponent" component from unnecessary re-rendering by
+wrapping the "WrappedListComponent" in the "memo" and passing it to the "List" to export the component
+Question 2-There were some errors in the code the first error was we need to install the dependencies named props-types 
+or @types/props-types second error was PropsTypes.arrayOf instead of PropsTypes.array and the third error was using PropsTypes.shape instead of PropsTypes.shape.
